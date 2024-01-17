@@ -1,0 +1,1 @@
+This is an example project from the tutorial on github actions (https://medium.com/@atharvapaliwal7/build-automated-ci-cd-workflows-with-github-actions-part-2-e43e694947a3) that contains a react app and gh workflows.
